@@ -3,3 +3,5 @@ scikit-learn
 numpy
 seaborn
 ipykernel
+mlflow==2.2.2
+dvc
